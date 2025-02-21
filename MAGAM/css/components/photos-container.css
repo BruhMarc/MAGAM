@@ -1,0 +1,15 @@
+.photos-container {
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 2vw;
+	width: 100%;
+
+}
+
+.photos-container img {
+	width: 100%;
+	border-radius: 4px;
+}
