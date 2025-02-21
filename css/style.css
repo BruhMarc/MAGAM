@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/btn-under.css");
+@import url("components/photos-container.css");
+@import url("components/location.css");
+@import url("components/avatar-container.css");
+@import url("components/style-text.css");
+@import url("components/video-background.css");
+body {
+	font-family: "DM Sans", serif;
+	font-size: 20px;
+	margin: 0px;
+	text-align: center;
+	color: white;
+
+}
+h1, h2, h3 {
+	font-family: "Roboto", serif;
+	font-weight: bold;
+	color: white;
+}
+
+h2{
+	margin-bottom: 40px;
+}
+a{
+	text-decoration: none;
+}
+
+#btn-under {
+
